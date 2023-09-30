@@ -11,3 +11,8 @@ Welcome to our News App, your one-stop destination for staying updated with the 
 - **Multilingual Support:** Read news in your preferred language.<--upcoming feature
 - **User-Friendly Interface:** Our app is designed for ease of use, so you can quickly find the information you need.
 - **Notifications:** Receive push notifications for breaking news and personalized updates.<--upcoming feature
+
+
+## Try it out here
+
+    https://rajnandini2004.github.io/News-App/
