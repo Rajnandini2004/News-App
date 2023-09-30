@@ -72,7 +72,9 @@ searchButton.addEventListener("click", () => {
 
 
 
-
+{
+    name = 'fdgd'
+}
 
 
 
